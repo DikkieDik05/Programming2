@@ -1,1 +1,0 @@
-Functional tests are provided to help students assess their practice exam. Functional tests like these will __NOT__ be provided at the exams in June or August/September.
